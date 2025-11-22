@@ -1,0 +1,6 @@
+ def Sqr(r):
+     r*0.5
+  
+
+def Area(C):
+    3.14*r*r
